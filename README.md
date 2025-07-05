@@ -3,6 +3,10 @@
 </div>
 
 I'm passionate **developer** who loves solving real-world problems through **code, data, and creativity**. Whether it's building web apps, desktop apps or analyzing complex datasets, I enjoy turning ideas into powerful digital tools.
+<br>
+<br>
+Contact me: <a href="https://leomalon.github.io/portfolio/" > ![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=plastic&logo=linkedIn&logoColor=white)</a><a href="[https://leomalon.github.io/portfolio/](https://www.instagram.com/leo.debugs.life)"> ![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=plastic&logo=Instagram&logoColor=white) </a>
+
 
 ## 🚀 What I am best at 
 - 💻 I automate almost any task to make the day efficient
@@ -32,7 +36,6 @@ I'm passionate **developer** who loves solving real-world problems through **cod
 
 - Build products that really make an impact and solve real problems
 - Keep growing as a developer and data analyst
-<a href="https://leomalon.github.io/portfolio/" > ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github&logoColor=white&link=https%3A%2F%2Fleomalon.github.io%2Fportfolio%2F)</a>
 
 ## 📫 Let’s Connect
 
