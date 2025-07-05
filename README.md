@@ -1,4 +1,4 @@
-## Welcome to my repository, I'm Leonardo Malón 👋
+### Welcome to my repository, I'm Leonardo Malón 👋
 
 I'm a passionate **developer** who loves solving real-world problems through **code, data, and creativity**. Whether it's building web apps, desktop apps or analyzing complex datasets, I enjoy turning ideas into powerful digital tools.
 
