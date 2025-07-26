@@ -5,7 +5,7 @@
 I'm passionate **developer** who loves solving real-world problems through **code, data, and creativity**. Whether it's building web apps, desktop apps or analyzing complex datasets, I enjoy turning ideas into powerful digital tools.
 <br>
 <br>
-Contact me: <a href="https://leomalon.github.io/portfolio/" > ![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=plastic&logo=linkedIn&logoColor=white)</a><a href="[https://leomalon.github.io/portfolio/](https://www.instagram.com/leo.debugs.life)"> ![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=plastic&logo=Instagram&logoColor=white) </a>
+Contact me: <a href="https://www.linkedin.com/in/malónronald" > ![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=plastic&logo=linkedIn&logoColor=white)</a><a href="https://www.instagram.com/leo.debugs.life"> ![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=plastic&logo=Instagram&logoColor=white) </a>
 
 
 ## 🚀 What I am best at 
@@ -23,7 +23,7 @@ Contact me: <a href="https://leomalon.github.io/portfolio/" > ![Static Badge](ht
 
 #### Backend: ![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=plastic&logo=django) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23336791?style=plastic&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=plastic&logo=flask&logoColor=white) ![Static Badge](https://img.shields.io/badge/Electron-%2347848F?style=plastic&logo=electron&logoColor=white)
 
-#### Management Tools: Notion, Git, GitHub. ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=plastic&logo=notion&logoColor=white) ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github&logoColor=white)
+#### Management Tools:![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=plastic&logo=notion&logoColor=white) ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github&logoColor=white)
 
 ## 🌱 Currently Mastering
 
